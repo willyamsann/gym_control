@@ -1,6 +1,6 @@
-# gym_control
+# Calculadora Simples com Dark Mode
 
-A new Flutter project.
+Flutter Projeto calculadora com toggle para Dark Mode e Light Mode.
 
 ## Getting Started
 
